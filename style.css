@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.box{
+    /* border: 2px solid red; */
+    width: 16%;
+    height: 40vh;
+    position: absolute;
+    top: 6%;
+    left: 35%;
+    transform: translate(0%, 50%);
+}
+input{
+    border: 2px solid black;
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 20px;
+}
+button{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color:cyan;
+    color: black;
+    font-size: 18px;
+    margin: 5px, 0px, 2px, 5px;
+}
